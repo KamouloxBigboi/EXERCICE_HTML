@@ -33,10 +33,12 @@ body {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-#slogan {
+h2 {
     text-align: center;
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 31px;
+    font-weight:lighter;
+    margin-top: 30px;
 }
 h3 {
     text-align: center;
@@ -44,7 +46,7 @@ h3 {
     margin-right: 32px;
     font-size: 1em;
     line-height: 26px;
-    font-weight:200; 
+    font-weight: 200;
 }
 
 #dl_button {
