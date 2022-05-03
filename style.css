@@ -2,10 +2,10 @@
 @media (min-width: 550px) {
     html {
         margin-left: 150px;
-        margin-right: 150px;    
+        margin-right: 150px;
     }
 }
- #connexion {
+ .connexion {
     display: flex;
     justify-content: end;
     padding: 0;
