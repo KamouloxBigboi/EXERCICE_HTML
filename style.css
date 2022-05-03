@@ -1,34 +1,56 @@
 
-@media (min-width: 550px) and (max-width: 1250px) {
-    /* le texte va avoir des marges de 40px */
-    .texte-introduction {
-        margin-left: 40px;
-        margin-right: 40px;
+@media (min-width: 550px) {
+    html {
+        margin-left: 150px;
+        margin-right: 150px;    
     }
- }
-
+}
  #connexion {
-     display: flex;
-     justify-content: end;
+    display: flex;
+    justify-content: end;
+    padding: 0;
+    border: none;
+    background: none;
  }
 #logo {
     display: flex;
     justify-content: center;
 }
+#logo_image {
+    width: 79px;
+    height: 77px;
+}
+
 body {
-    background-color: #018174;
+    background-color: #00927e;
     font-family: Arial, Helvetica, sans-serif;
 }
 #content {
-    color: white;   
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #slogan {
     text-align: center;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    line-height: 31px;
 }
 article {
     text-align: center;
+    margin-left: 32px;
+    margin-right: 32px;
+    font-size: 1em;
+    line-height: 26px; 
 }
+
 #dl_button {
+    display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0;
+    border: none;
+    background: none;
+}
+footer {
+    display: flex;
+    justify-content: center;
 }
