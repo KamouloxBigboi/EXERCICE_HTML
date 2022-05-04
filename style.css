@@ -75,8 +75,6 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     margin-top: 40px;
-    border: none;
-    background: none;
     width: 300px;
     height: 385px
 }
@@ -85,7 +83,6 @@ h3 {
     color: #1c1e21;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    margin-top: 0;
 }
 p {
     padding-top: 3em;
@@ -198,4 +195,8 @@ p3 {
     color: white;
     padding-left: 1.8em;
     padding-right: 3.6em;
+}
+footer {
+    background-color: #273443;
+    color: white;
 }
