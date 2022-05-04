@@ -92,22 +92,14 @@ p {
 }
 
 #txt2 {
-
     margin: 2em ;
-}
-
-#txt3 {
-
-    margin: 2em ;
-}
-
-p2 {
     font-size: 1em;
     line-height: 26px;
     font-weight: 200;
 }
 
-p3 {
+#txt3 {
+    margin: 2em ;
     font-size: 1em;
     line-height: 26px;
     font-weight: 200;
@@ -166,7 +158,6 @@ p3 {
     line-height: 26px;
     font-weight: 400;
     text-align: center;
-    text-rendering: optimizeLegibility;
 }
 #function_block {
     text-align: center;
@@ -176,7 +167,7 @@ p3 {
 #function_button {
     text-align: center;
     width: 340px;
-    height: 55;
+    height: 55px;
     margin-left: auto;
     margin-right: auto;
     color: #128c7e;
