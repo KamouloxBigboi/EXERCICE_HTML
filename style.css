@@ -131,8 +131,8 @@ p3 {
     justify-content: center;
     padding: 2em;
     padding-bottom: 1em;
-    width:  85%;
-    height: 85%;
+    width:  273px;
+    height: 273px;
 }
 
 #txt4 {
@@ -168,5 +168,15 @@ p3 {
     padding: 3em;
 }
 #function_button {
+    margin-left: auto;
+    margin-right: auto;
+    color: #128c7e;
+    background-color: white;
+    border-radius: 40px;
+    padding: 16px 32px;
     text-align: center;
+    font-size: 1em;
+    line-height: 120%;
+    cursor: pointer;
+    border: 2px solid #77d7c8;
 }
